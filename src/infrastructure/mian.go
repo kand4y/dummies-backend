@@ -1,4 +1,0 @@
-package infrastructure
-
-func main() {
-}
